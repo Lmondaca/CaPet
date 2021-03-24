@@ -1,0 +1,84 @@
+@charset "UTF-8";
+/* Estilo de register.jsp y perfilDueño.jsp */
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.titulo{
+	text-align:center;
+	background-color: rgb(236, 240, 241);
+}
+
+.foto{ 
+	border: solid black 3px;
+	text-align:center;
+	width:300px;
+	height:300px;
+	padding: 10px;
+	position: relative;
+	left:550px;
+	top:10px;
+	background-color: rgb(149, 165, 165);
+	border-radius: 20px;
+}
+.descripcion{
+	border: solid black 3px;
+	text-align:center;
+	width:300px;
+	height:300px;
+	padding: 10px;
+	position: relative;
+	bottom:316px;
+	left:900px;
+	background-color: rgb(149, 165, 165);
+	border-radius: 20px;
+}
+.listaMascota{
+	border: solid black 3px;
+	text-align:center;
+	width:300px;
+	height:400px;
+	padding: 10px;
+	position: relative;
+	bottom:250px;
+	left:550px;
+	background-color: rgb(149, 165, 165);
+	border-radius: 20px;
+}
+.comentarios{
+	border: solid black 3px;
+	text-align:center;
+	width:400px;
+	height:300px;
+	padding: 10px;
+	position: relative;
+	bottom:650px;
+	left:900px;
+	background-color: rgb(149, 165, 165);
+	border-radius: 20px;
+}
+.comentario{
+	border: solid black 3px;
+	padding: 10px;
+	background-color: white;
+	border-radius: 20px;
+}
+img{
+	width:150px;
+	height:150px;
+}
+.mas{
+	border: solid black 1px;
+	text-align:center;
+	width:50px;
+	height:50px;
+	background-color: white;
+	border-radius: 20px;
+    
+}
+p{
+	text-align:left;
+}
+
+/* END Estilo de register.jsp y perfilDueño.jsp */

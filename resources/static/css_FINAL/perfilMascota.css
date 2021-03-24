@@ -1,0 +1,79 @@
+
+div.Logo{  
+    text-align: center;
+    background-color:#ecf0f1;
+}
+
+div.perfil{
+    border: 1px solid black; 
+    text-align: center;
+    background-color: #95a5a6;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+div.comentario{
+    background-color:#95a5a6;
+    border: 1px solid black;
+    width: 700px;
+    margin-left: 400px;
+    margin-top: -310px;
+    border-radius: 20px;
+}
+
+div.cuidados{
+    border: 1px solid black;
+    width: 700px;
+    height: 200px;
+    margin-left: 400px;
+    margin-top: 70px;
+    color: rgb(0, 0, 0);
+    background-color: #95a5a6;
+    border-radius: 20px;
+    
+}
+
+div.foto{
+    border: 2px solid black;
+    width: 300px;
+    margin-top: 50px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+div.link{
+    border-radius: 20px;
+    border: 20px;
+   
+    width: 100px;
+    height: 40px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+div.publicidad{
+    width: 400px;
+    background-color:royalblue;
+    margin-top: -760px;
+    font-size: 20px;
+    margin-left: 120px;
+    font-style: italic;
+    border: 2px solid black;
+    border-radius: 20px;
+    
+
+}
+#veterinaria{
+    height: 100px;
+    margin-left: 20px;
+    margin-top: -78px;
+}
+#simbolo{
+    margin-left: 410px;
+    margin-top: 358px;
+    height: 50px;
+    width: 50px;
+
+    
+}

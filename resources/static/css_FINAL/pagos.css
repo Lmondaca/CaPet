@@ -1,0 +1,21 @@
+*{
+	margin: 10px;
+}
+div.contenedor{
+    background-color:#7f8c8d;
+    height: 600px;
+    border-radius: 20px;
+}
+#pagos{
+    margin-left:500px;
+    background-color: #ecf0f1;
+    width: 500px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+       position: relative;
+    top:100px;
+}
+#volver{
+    margin-top: 200px;
+}
